@@ -8,18 +8,18 @@ jobs:
     build:
         runs-on: ubuntu-latest
         steps:
-            - uses: actions/checkout@v2
-            with:
-                token: ${{ secrets.GITHUB_TOKEN }}
-            - name: Run the scrape.py
-            run: |
-                python3 src/scrape.py | tee -a puzzle.txt
-                uniq -u puzzle.txt
-            - name: Save the puzzle.txt
-            run: |
-                git config --local user.email "action@github.com"
-                git config --local user.name "GitHub Action"
-                git add . 
-                git commit -m "new puzzles" 
-                git push "https://0xrishabh:${{ secrets.GITHUB_PERSONAL_TOKEN }}@github.com/0xrishabh/chessPuzzle.git" HEAD:main --follow-tags
+        - uses: actions/checkout@v2
+          with:
+            token: ${{ secrets.GITHUB_TOKEN }}
+        - name: Run the scrape.py
+          run: |
+            python3 src/scrape.py | tee -a puzzle.txt
+            uniq -u puzzle.txt
+        - name: Save the puzzle.txt
+          run: |
+            git config --local user.email "action@github.com"
+            git config --local user.name "GitHub Action"
+            git add . 
+            git commit -m "new puzzles" 
+            git push "https://0xrishabh:${{ secrets.GITHUB_PERSONAL_TOKEN }}@github.com/0xrishabh/chessPuzzle.git" HEAD:main --follow-tags
             
