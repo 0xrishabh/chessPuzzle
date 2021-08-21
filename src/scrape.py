@@ -18,7 +18,7 @@ def scrape(http,data):
 	fen_after = board.fen()
 	elo = puzzle_json["elo"]
 
-	forced_line = puzzle_json["forcedLine"]
+	forced_line = ",".join(puzzle_json["forcedLine"])
 	print("{}|{}|{}".format(fen_after,forced_line,elo))
 	return True
 
