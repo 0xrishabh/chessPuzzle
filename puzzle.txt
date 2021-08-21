@@ -48,3 +48,13 @@ r1bqr1k1/1p3ppp/2pp2n1/p1b5/4PPn1/P1NP2NP/1PP3BK/R1BQ1R2 w - - 3 14|['hxg4']|140
 2qQ2k1/5pp1/2p3r1/1P4B1/3P3P/5K2/2R5/8 b - - 2 50|['Qxd8', 'Bxd8', 'cxb5']|1355
 6k1/4bppp/8/1Q6/8/P3qPP1/1P4KP/8 w - - 0 35|['Qe8+', 'Bf8', 'Qxe3', 'g5', 'Qxg5+']|1411
 2r2bk1/R4bpp/8/4Np2/1ppP4/4P1P1/4B2P/6K1 b - - 3 37|['c3', 'Bd1', 'b3', 'Bxb3', 'Bxb3']|1911
+1r3rk1/5p1p/2p3p1/p2pQ3/7q/1P1P2N1/PKP2P2/3RR3 w - - 10 30|['Nf5', 'gxf5', 'Rg1+', 'Qg4', 'Rxg4+', 'fxg4', 'Rh1', 'f6', 'Qc7', 'Rf7', 'Qxb8+']|1877
+3r2k1/5p1p/p4b2/6P1/1p1n3Q/2q2NP1/4PPB1/4R1K1 w - - 3 33|['gxf6']|1337
+3r2k1/1pr2pp1/pNn4p/6q1/8/P2B4/1P1Q1RPP/2R3K1 b - - 2 23|['Rxd3', 'Qxg5', 'hxg5']|1664
+6k1/2Rr4/3Pb1p1/5q1p/3Qp2P/6P1/6B1/7K w - - 2 45|['Rc8+', 'Kf7', 'Qh8', 'Rd8', 'Rxd8']|1370
+7r/p6r/1pN1P3/2pPR3/P1P2pk1/1P4p1/6P1/6K1 w - - 4 48|['Kf1', 'Rh1+', 'Ke2']|1291
+8/1P4pk/2K4p/2Q5/2q1p3/6PP/8/8 b - - 10 70|['Qe6+', 'Kc7', 'Qf7+']|1489
+7k/p7/7p/2ppb3/Pp1p1q1P/1P1P1B2/2PNK3/6R1 b - - 3 51|['Qe3+', 'Kf1', 'Qxd2']|1648
+3Q4/5qpr/p3p3/1p1pk3/8/2P1P3/PP2KP2/6R1 w - - 4 33|['Rg5+']|1379
+6k1/5pbp/3r4/1p1P1R2/p3q3/2PQ4/PP4PP/2N4K b - - 3 31|['Rxd5', 'Rf3', 'Rxd3']|1603
+6k1/pR4b1/8/4pBP1/1P2P2P/2rr4/P7/5R1K w - - 0 42|['Rb8+']|1541
