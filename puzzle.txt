@@ -48948,3 +48948,13 @@ r5r1/p1p1p1b1/1p2Pnkp/4p2n/8/2N1BP2/PPPQ3P/2KR4 w - - 0 21|Qd3+,e4,Nxe4|1292
 6rk/5p1p/4qb2/p1n1pNr1/PpPpPp2/1P3R1Q/3N2PP/3R3K w - - 8 32|Qxh7+,Kxh7,Rh3+,Rh5,Rxh5+,Kg6,Rh6+,Kg5,Nf3+,Kg4,h3#|1535
 2b1q1nk/p3rp2/1p4p1/2pP4/2Pp1b1p/PP1B1Q1P/4R1P1/4R1K1 w - - 0 36|Rxe7,Nxe7,Qxf4,Kg7,Qe5+,f6,Qxe7+,Qxe7,Rxe7+,Kf8,d6,Ba6,Bxg6,Bc8,Re8+,Kg7,Rxc8|2836
 4r3/1bp3k1/1p1P2pp/pPn5/2PR4/6P1/7P/4R1K1 b - - 0 33|Rxe1+,Kf2,Re4,Rxe4,Nxe4+|2108
+1q6/1p1k1p1r/2p1pBp1/1PPnP2p/7P/Q7/3R1PP1/6K1 w - - 1 54|bxc6+,bxc6,Rb2,Qxb2,Qxb2|1902
+r7/p6p/1p4p1/6b1/kP6/P3R3/2KnN1PP/7R w - - 9 34|Nc3+,Kxa3,Ra1+,Kxb4,Re5,b5,Rxb5+|1414
+8/8/4q3/4P1Q1/6K1/8/6k1/8 w - - 11 65|Kh5+|1201
+3r1rk1/2q1n2p/2p3p1/p4p2/N1P1pP2/1PQ3PP/P2R1nBK/3R4 w - - 5 26|Rxd8,Rxd8,Qe5|1708
+8/8/p4q1k/1p1Q2p1/1Pp4p/P4P2/3K4/8 b - - 4 56|h3,Kc2,Qg6+,Kb2,h2|2054
+4rnk1/pp2r1n1/2p2q2/3p1b1p/3P1N2/3B2NP/PP3Q1K/R4R2 w - - 0 27|Nxf5,Nxf5,Nxh5,Qd6+,Kh1,Ng3+,Nxg3|2227
+8/5p2/7k/4bqpp/2P4P/1r3NP1/3Q1RK1/8 w - - 0 44|Qxg5+,Qxg5,hxg5+,Kg6,Nxe5+,Kxg5,Nxf7+,Kg6,Ne5+|2146
+r4rk1/2qp3p/p1bbp1p1/1p4Nn/5PQ1/P2B4/1PP3PP/R1B2R1K w - - 4 20|Nxh7,Rf7,Bxg6|1876
+8/1p3kbp/p5pn/3n4/PB1N1P2/1P3N1P/r5P1/4R2K w - - 7 39|Ng5+,Kg8,Re8+|1292
+r4rk1/ppp2ppp/2n1b3/2b1p3/6P1/NPn2N2/P3BP1P/R1B2RK1 b - - 1 13|Nxe2+|1505
